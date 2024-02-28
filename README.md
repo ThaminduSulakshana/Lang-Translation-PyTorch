@@ -17,4 +17,4 @@ PyTorch-based project for fine-tuning a Marian model pretrained on the KDE4 data
 
 For a quick overview [Video](https://drive.google.com/file/d/1xaW__7UkCUJy-TV6gf1gPjry5EeHmWeK/view?usp=sharing). You can access the live version of this web application [here](https://thamindubluechiptechasia-huggingface-nlp-projectt.hf.space). 
 
-![Image Alt Text](https://github.com/ThaminduSulakshana/Question-answering-PyTorch/blob/main/Screenshot%20(465).png)
+![Image Alt Text](https://github.com/ThaminduSulakshana/Lang-Translation-PyTorch/blob/main/Screenshot%20(491).png)
